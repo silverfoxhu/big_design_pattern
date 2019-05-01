@@ -1,0 +1,3 @@
+/home/hudayuan/work/design_mode/big_design_pattern/proxy/build/CMakeFiles/edit_cache.dir
+/home/hudayuan/work/design_mode/big_design_pattern/proxy/build/CMakeFiles/rebuild_cache.dir
+/home/hudayuan/work/design_mode/big_design_pattern/proxy/build/CMakeFiles/Demo.dir

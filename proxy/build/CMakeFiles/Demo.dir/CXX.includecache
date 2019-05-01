@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../proxy.h
+iostream
+-
+string
+-
+
+/home/hudayuan/work/design_mode/big_design_pattern/proxy/main.cpp
+proxy.h
+-
+iostream
+-
+stdlib.h
+-
+
