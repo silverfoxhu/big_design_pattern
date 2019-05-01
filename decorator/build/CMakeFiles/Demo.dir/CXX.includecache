@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hudayuan/work/design_mode/big_design_pattern/decorator/decorator.h
+person.h
+/home/hudayuan/work/design_mode/big_design_pattern/decorator/person.h
+iostream
+-
+
+/home/hudayuan/work/design_mode/big_design_pattern/decorator/main.cpp
+string
+-
+iostream
+-
+person.h
+/home/hudayuan/work/design_mode/big_design_pattern/decorator/person.h
+decorator.h
+/home/hudayuan/work/design_mode/big_design_pattern/decorator/decorator.h
+
+/home/hudayuan/work/design_mode/big_design_pattern/decorator/person.h
+iostream
+-
+string
+-
+

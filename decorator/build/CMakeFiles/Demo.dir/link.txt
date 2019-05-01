@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Demo.dir/home/hudayuan/work/design_mode/big_design_pattern/decorator/main.cpp.o  -o Demo 
